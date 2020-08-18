@@ -1,3 +1,10 @@
 venv/
 __pycache__/
 
+# The artifacts created as we run processes
+*.h5
+*.onnx
+keras-yolo3/
+openimages/
+train/
+validate/
